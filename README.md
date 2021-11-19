@@ -15,12 +15,15 @@ Nome dos Alunos:
 
 **Ano:2021**
 
-## Objetivo / descrição do Projeto
+## Objetivo / Descrição do Projeto
 
 Foi solicitado na Classe de DISRUPTIVE ARCHITECTURES IOT & IA que fosse criado um Machine Learning capaz decidir qual tomateiro é mais resistente ao fungo de acordo com as metricas apresentadas no dataset
 
 //Diretorio dataset: Arquivo referência dataset
-   
+
+## Instruções para execução e testes
+Realizar o download dos arquivos, ou clonar o projeto do GitHub, a partir dai abrir o arquivo global.ipynb no IDE da sua preferência, executar o arquivo de acordo as instruções internas, atenção ao caminho referido do dataset para importação.
+
 
 ## Link de vídeo demonstração
 
